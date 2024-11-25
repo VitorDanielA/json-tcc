@@ -1,9 +1,29 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "localidades": [
+    {
+      "id": "8d99",
+      "latitude": -11.3016832,
+      "longitude": -41.8545664
+    },
+    {
+      "id": "4555",
+      "latitude": -11.3016832,
+      "longitude": -41.8545664
+    },
+    {
+      "id": "e1a2",
+      "latitude": -11.3016832,
+      "longitude": -41.8480128
+    },
+    {
+      "id": "0c52",
+      "latitude": -11.3016832,
+      "longitude": -41.8480128
+    },
+    {
+      "id": "6ed0",
+      "latitude": -11.3034114,
+      "longitude": -41.8501323
+    }
+  ]
 }
